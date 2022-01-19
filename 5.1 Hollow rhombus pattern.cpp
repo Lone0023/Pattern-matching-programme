@@ -6,7 +6,7 @@ int main()
     cout<<"Enter the value of n: "<<endl;
     cin>>n;
     cout<<endl;
-    cout<<"Your Rhombus is printed below."<<endl<<endl;
+    cout<<"Your Hollow Rhombus is printed below."<<endl<<endl;
 
     for(i = 1; i<=n; i++){
         for(j = 1; j<=(n-i); j++){
